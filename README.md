@@ -54,6 +54,4 @@ Modern job portal with React.js, Redux Toolkit, Material UI & Formik for form ha
 
 ---
 
-_"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
-
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
